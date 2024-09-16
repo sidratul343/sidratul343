@@ -48,19 +48,16 @@
 ## :tada: Achievements
 
 
-[IBM DATA SCIENCE Professional Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/8GZR9L6S9FTQ)
+[Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/verify/6XHU7DWXB6NM)
 
 
-[DeepLearning.AI TensorFlow Developer](https://www.coursera.org/account/accomplishments/specialization/certificate/C7DXJEDWDMMQ)
+[Introduction to Structured Query Language (SQL)](https://coursera.org/verify/J4HQTJB7YLWY)
 
 
-[Applied Data Science with Python](https://www.coursera.org/account/accomplishments/specialization/certificate/UPL3Y24MYALW)
+[Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/verify/39F76XANHSWD)
 
 
-[Machine Learning by Stanford University](https://www.coursera.org/account/accomplishments/certificate/723V2R6E8YGF)
-
-
-[Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/T6U2YWB7XPLF)
+[Machine Learning for All](https://coursera.org/verify/TV2YGGM37B6V)
 
 
 <p align="center">
