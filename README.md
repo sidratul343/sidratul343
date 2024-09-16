@@ -1,4 +1,4 @@
-<a target="_blank" href="https://rashikrahman.github.io/Website/"><img width="550" align="right" src="Programmer-I.gif"></a>
+<a target="_blank" href="https://sidratul343.github.io/Website/"><img width="550" align="right" src="Programmer-I.gif"></a>
 
 
 # Sidratul Montaha
@@ -10,7 +10,7 @@
 - [Sidratul Montaha Google Scholar](https://scholar.google.com/citations?user=MddzZ-8AAAAJ&hl=en)
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=codeperfectplus" alt="sidratul343" /> </p>
+
 
 ### Available On-
 <a href="https://www.facebook.com/montaha.tuba.73/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
