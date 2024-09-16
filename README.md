@@ -1,16 +1,13 @@
 <a target="_blank" href="https://rashikrahman.github.io/Website/"><img width="550" align="right" src="Programmer-I.gif"></a>
 
 
-# Rashik Rahman
+# Sidratul Montaha
 
 
-:wave: Hi there, My name is Rashik Rahman hailing from Dhaka, Bangladesh. I am a lecturer at The University of Asia Pacific. I have profound knowledge in Image Processing, Machine Learning, and now practicing Deep Learning and NLP. 
-I have completed my undergraduate degree in CSE from The University of Asia Pacific, Bangladesh. Love to play with data and develop Machine Learning models to help make data-driven solutions. 
+:wave: Hi there, My name is Sidratul Montaha hailing from Calgary, Alberta, Canada. I am pursuing a master’s degree in computer science at the University of Calgary. My research interests include artificial intelligence, health informatics, medical imaging, computer vision, machine learning, and deep learning. As a former research assistant at Charles Darwin University, I have contributed to significant projects for the Menzies Institute of Technology. Let’s connect if you want to collab and create something awesome in machine learning. You can check out my research work from the following.
 
-My research interests are Computer Vision, IOT, and NLP. Let’s connect if you want to collab and create something awesome in the world of machine learning. You can check out my research work from the following.
-
-- [Rashik Rahman ReseachGate](https://www.researchgate.net/profile/Rashik_Rahman)
-- [Rashik Rahman Google Scholar](https://scholar.google.com/citations?user=20fAehwAAAAJ&hl=en)
+- [Sidratul Montaha ReseachGate](https://www.researchgate.net/profile/Sidratul-Montaha)
+- [Sidratul Montaha Google Scholar](https://scholar.google.com/citations?user=MddzZ-8AAAAJ&hl=en)
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codeperfectplus" alt="RashikRahman" /> </p>
