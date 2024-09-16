@@ -62,15 +62,15 @@
 
 <p align="center">
 <a href="https://github.com/sidratul343">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RashikRahman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RashikRahman&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sidratul343&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sidratul343&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RashikRahman&theme=radical" alt="RashikRahman" width="600" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sidratul343&theme=radical" alt="sidratul343" width="600" /></p>
 
 <p align="center">
 
- <img src="https://activity-graph.herokuapp.com/graph?username=RashikRahman&theme=react-dark&area=true&hide_border=true" width="100%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=sidratul343&theme=react-dark&area=true&hide_border=true" width="100%">
 
 </p>
