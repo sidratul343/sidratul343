@@ -1,4 +1,4 @@
-<a target="_blank" href="https://sidratul343.github.io/Website/"><img width="550" align="right" src="Programmer-I.gif"></a>
+<a target="_blank" href="https://sidratul343.github.io/Website/"><img width="550" align="right" src="nw.gif"></a>
 
 
 # Sidratul Montaha
