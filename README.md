@@ -16,7 +16,7 @@
 <a href="https://www.facebook.com/montaha.tuba.73/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/sidratul-montaha-950a451b9/?originalSubdomain=ca"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://www.instagram.com/montaha_tuba/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
-<a href="https://sidratul343.github.io/Website/"><img src="https://img.shields.io/badge/WebSite-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
+<a href="https://sidratul343.github.io"><img src="https://img.shields.io/badge/WebSite-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
 <a href="https://www.researchgate.net/profile/Sidratul-Montaha"><img src="https://img.shields.io/badge/ResearchGate-1877F2?style=for-the-badge&logo=researchGate&logoColor=white" /></a> 
 <a href="https://scholar.google.com/citations?user=MddzZ-8AAAAJ&hl=en"><img src="https://img.shields.io/badge/GoogleScholar-1877F2?style=for-the-badge&logo=googleScholar&logoColor=white" /></a>
 
