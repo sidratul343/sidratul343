@@ -4,7 +4,7 @@
 # Sidratul Montaha
 
 
-:wave: Hi there, My name is Sidratul Montaha hailing from Edmonton, Alberta, Canada. I am pursuing a PhD degree in Computing Science at the University of Alberta. My research interests include artificial intelligence, health informatics, medical imaging, computer vision, machine learning, and deep learning. As a former research assistant at Charles Darwin University, I have contributed to significant projects for the Menzies Institute of Technology. Let’s connect if you want to collab and create something awesome in machine learning. You can check out my research work from the following.
+:wave: Hi there, My name is Sidratul Montaha. I am pursuing a PhD degree in Computing Science at the University of Alberta, Canada. My research interests include artificial intelligence, health informatics, medical imaging, computer vision, machine learning, and deep learning. As a former research assistant at Charles Darwin University, I have contributed to significant projects for the Menzies Institute of Technology. Let’s connect if you want to collab and create something awesome in machine learning. You can check out my research work from the following.
 
 - [Sidratul Montaha ReseachGate](https://www.researchgate.net/profile/Sidratul-Montaha)
 - [Sidratul Montaha Google Scholar](https://scholar.google.com/citations?user=MddzZ-8AAAAJ&hl=en)
